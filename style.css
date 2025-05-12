@@ -1,0 +1,96 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Arial', sans-serif; 
+    background-color: #e0f7fa; 
+    color: #333; 
+    line-height: 1.6; 
+    padding: 20px;
+  }
+  
+
+  header {
+    background-color: #e74c3c;  
+    padding: 20px 0;
+    text-align: center;
+    color: white;
+    border-radius: 8px;
+  }
+  
+  h1 {
+    font-size: 3em;
+  }
+  
+
+  main {
+    margin-top: 40px;
+  }
+  
+  .receitas h2 {
+    color: #c0392b; 
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 2em;
+  }
+  
+  ul {
+    list-style-type: none; 
+    max-width: 600px;
+    margin: 0 auto; 
+    padding: 0;
+  }
+  
+   .botao-receita {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    transition: background-color 0.3s;
+  }
+  
+  .botao-receita:hover {
+    background-color: #f39c12; 
+  }
+  
+  a {
+    display: block;
+    text-decoration: none;
+    color: #2c3e50;
+    padding: 15px;
+    font-size: 1.2em;
+  }
+  
+  a:hover {
+    color: white; 
+  }
+  
+ 
+  body {
+    background-color: #c6e9ed; 
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  }
+  body.arroz {
+    background-color: #c6e9ed; 
+    
+  }
+  body.bolo {
+    background-color: #c6e9ed; 
+    
+  }
+  body.lasanha {
+    background-color: #c6e9ed; 
+    
+  }
+  
+ main {
+    margin-top: 40px;
+  }
+  
+  
